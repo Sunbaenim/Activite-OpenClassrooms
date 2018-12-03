@@ -19,6 +19,7 @@ int	main(int argc, char **argv)
 			ft_putchar(argv[i][j]);
 			j++;
 		}
+		ft_putchar('\n');
 		j = 0;
 		i++;
 	}
