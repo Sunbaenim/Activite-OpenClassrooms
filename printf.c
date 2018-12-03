@@ -2,6 +2,6 @@
 
 int	main(int argc, char **argv)
 {
-	printf("Ceci est une phrase.");
+	printf("Ceci est une phrase.\n");
 	return (0);
 }
